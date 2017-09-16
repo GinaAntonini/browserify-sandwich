@@ -1,0 +1,11 @@
+{
+	"veggies": [
+		{
+			"Lettuce": 0, 
+			"Onion": 1, 
+			"Green Peppers": 1, 
+			"Cucumber": 1, 
+			"Avocado": 2
+		}
+	]
+}
