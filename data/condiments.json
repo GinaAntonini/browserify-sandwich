@@ -1,12 +1,10 @@
 {
 	"condiments": [
-		{
-			"Ketchup": 0, 
-			"Mustard": 0, 
-			"Sriracha": 0, 
-			"Tzasiki": 0, 
-			"Relish": 0
-		}
+		{"type": "Ketchup", "price": 0}, 
+		{"type": "Mustard", "price": 0}, 
+		{"type": "Sriracha", "price": 0}, 
+		{"type": "Tzasiki", "price": 0}, 
+		{"type": "Relish", "price": 0}
 	]
 }
 	

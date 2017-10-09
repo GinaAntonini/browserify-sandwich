@@ -1,11 +1,9 @@
 {
 	"veggies": [
-		{
-			"Lettuce": 0, 
-			"Onion": 1, 
-			"Green Peppers": 1, 
-			"Cucumber": 1, 
-			"Avocado": 2
-		}
+		{"type": "Lettuce", "price": 0}, 
+		{"type": "Onion", "price": 1}, 
+		{"type": "Green Peppers", "price": 1}, 
+		{"type": "Cucumber", "price": 1}, 
+		{"type": "Avocado", "price": 2}
 	]
 }

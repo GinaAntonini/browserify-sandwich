@@ -1,11 +1,10 @@
 {
 	"meat": [
-		{
-			"Turkey": 4, 
-			"Pastor": 7, 
-			"Carnitas": 3, 
-			"Steak": 2, 
-			"Chicken": 3
-		}
+		{"type": "Turkey", "price": 4}, 
+		{"type": "Pastor", "price": 7}, 
+		{"type": "Carnitas", "price": 3}, 
+		{"type": "Steak", "price": 2}, 
+		{"type": "Chicken", "price": 3}
 	] 
 }
+
