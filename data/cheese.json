@@ -1,11 +1,9 @@
 {
 	"cheese": [
-		{
-			"Pepperjack": 1, 
-			"Cheddar": 1, 
-			"Gouda": 1, 
-			"Provologne": 1, 
-			"American": 1
-		}
+		{"type": "Pepperjack", "price": 1},
+		{"type": "Cheddar", "price": 1},
+		{"type": "Gouda", "price": 1},
+		{"type": "Provologne", "price" : 1}, 
+		{"type": "American", "price": 1}
 	] 
 }

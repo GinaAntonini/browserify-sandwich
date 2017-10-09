@@ -1,11 +1,9 @@
 {
 	"bread": [
-		{
-			"Wheat": 1, 
-			"White": 1, 
-			"Four Cheese": 1, 
-			"Sprouted": 2, 
-			"Five Grain": 2
-		}
+			{"type": "Wheat", "price": 1}, 
+			{"type": "White", "price": 1}, 
+			{"type": "Four Cheese", "price": 1}, 
+			{"type": "Sprouted", "price": 2}, 
+			{"type": "Five Grain", "price": 2}
 	] 
 }
