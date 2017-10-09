@@ -1,0 +1,31 @@
+body {
+	background-color: #48D1CC;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+}
+
+p, #sandwichHolder {
+	font-family: 'Dosis', sans-serif;
+	text-align: center;
+}
+
+#submitOrder {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #ababab;
+  font-family: Arial;
+  color: #fafafa;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #ffffff 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #dcdee0;
+  text-decoration: none;
+}
