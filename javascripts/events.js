@@ -2,7 +2,7 @@
 
 
 $('#submitOrder').click(function(){
-	let total = 0; //running total
+	let total = []; //running total
 	let orderedBread = "";
 	$('#breadHolder > input:checked').each(function(index){
 		//use $(this) to access the checked input box
